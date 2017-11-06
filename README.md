@@ -1,4 +1,5 @@
 # Danbury Artificial Intelligence Group
+
 <div style="text-align:center">
 <h2>Deep Learning Study Group</h2>
 ![Danbury AI](/dai.png)
