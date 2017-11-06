@@ -1,6 +1,6 @@
-# Danbury Artificial Intelligence Group
+# Danbury Artificial Intelligence
 ## Deep Learning Study Group
-![](dai.png)
+![](dai.png=250x)
 
 
 A repo for our deep learning book study group launched in October 2017. This is a living repo that is subject to rapid change. Also, most work is in progress, and nothing should be taken as final unless marked so. If you'd like to contribute, [join our meetup group]((https://www.meetup.com/DanburyAI/)) and message the organizers.
