@@ -17,6 +17,10 @@ In this group we aim to disseminate knowledge through code, prose, and mathemati
 ### Numerical Computation
 * [Example - Gradient of Linear Least Squares](/Notebooks/MemberNBS/NumericalComputation/Example%20-%20Gradient%20of%20Linear%20Least%20Squares.ipynb) - Michael Rogowski
 
+### Machine Learning Basics
+* [Linear Regression - The Solution Space](/Notebooks/MemberNBS/MachineLearningBasics/Linear%20Regression%20-%20The%20Solution%20Space.ipynb)
+* [Linear Regression - Gradient Descent](/Notebooks/MemberNBS/MachineLearningBasics/Linear%20Regression%20-%20Gradient%20Descent.ipynb)
+
 ## Most Active Members
 * [Andrew Ribeiro](http://andrewrib.com/)
 * [Michael Rogowski](https://www.linkedin.com/in/michael-rogowski-23998495/)
